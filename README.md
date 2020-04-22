@@ -5,4 +5,4 @@ The capture.py is used to collect collect gesture grayscale images with a resolu
 
 The test.py is used to train the model and detect the the picture of gesture realtime
 
-The detail of this code is show as the url:
+You can see the detail of this project by :https://blog.csdn.net/weixin_39954922/article/details/105692245
